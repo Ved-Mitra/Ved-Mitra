@@ -19,5 +19,5 @@ I am Ved Mitra Verma
 Student at Indian Institute of Technology Jodhpur
 
 # Technologies and Tools
-**Programming**: C, Python
-**Electronics**: Arduino, ESP32
+**Programming** : C, Python
+**Electronics** : Arduino, ESP32
