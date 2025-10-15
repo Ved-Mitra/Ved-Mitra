@@ -19,6 +19,7 @@ I am Ved Mitra Verma
 Student at Indian Institute of Technology Jodhpur
 
 # Technologies and Tools
-**Programming** : C, Python, HTML, CSS, C++
-
+**Programming** : C, Python, HTML, CSS, C++, JS, Solidity
+**Libraries/Framework** : Pandas, Numpy, OpenCV
+**Software** : Solidworks, Google Colab, Arduino, Adobe Illustrator
 **Electronics** : Arduino, ESP32
