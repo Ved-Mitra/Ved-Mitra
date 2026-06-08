@@ -2,7 +2,9 @@
   
 # Hi there, I'm Ved Mitra Verma 👋
 
-**Student at Indian Institute of Technology (IIT) Jodhpur** *Deeply exploring Web Development, App Development, and GPU Programming.*
+**Student at Indian Institute of Technology (IIT) Jodhpur** 
+
+*Interested in Web Development, App Development, and GPU Programming.*
 
 <a href="https://www.linkedin.com/in/ved-mitra-verma-64a753313">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
