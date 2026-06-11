@@ -29,7 +29,7 @@ I like solving problems that require understanding both the high-level architect
   &nbsp;&nbsp;&nbsp;
   
   <a href="https://github.com/Ved-Mitra/AutoType">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=Autotype&theme=dark&hide_border=false&v=1" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=Autotype&theme=dark&hide_border=false&v=2" width="40%" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@ I like solving problems that require understanding both the high-level architect
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Ved-Mitra/AttenSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=AttenSync&theme=dark&hide_border=false&hide_description=true&v=1" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=AttenSync&theme=dark&hide_border=false&hide_description=true&v=2" width="40%" />
   </a>
   &nbsp;&nbsp;&nbsp;
 </div>
