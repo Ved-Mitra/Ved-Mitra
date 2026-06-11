@@ -24,12 +24,12 @@ I like solving problems that require understanding both the high-level architect
 <div align="left">
   
   <a href="https://github.com/Ved-Mitra/speakify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=speakify&theme=dark&hide_border=false" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=speakify&theme=dark&hide_border=false&v=1" width="40%" />
   </a>
   &nbsp;&nbsp;&nbsp;
   
   <a href="https://github.com/Ved-Mitra/AutoType">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=Autotype&theme=dark&hide_border=false" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=Autotype&theme=dark&hide_border=false&v=1" width="40%" />
   </a>
 </div>
 
@@ -39,11 +39,11 @@ I like solving problems that require understanding both the high-level architect
 *Projects with a finished first version, planned for future scaling and feature updates.*
 <div align = "left">
   <a href="https://github.com/Ved-Mitra/CNN-Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=CNN-Scratch&theme=dark&hide_border=false&hide_description=true" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=CNN-Scratch&theme=dark&hide_border=false&hide_description=true&v=1" width="40%" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Ved-Mitra/AttenSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=AttenSync&theme=dark&hide_border=false&hide_description=true" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Mitra&repo=AttenSync&theme=dark&hide_border=false&hide_description=true&v=1" width="40%" />
   </a>
   &nbsp;&nbsp;&nbsp;
 </div>
