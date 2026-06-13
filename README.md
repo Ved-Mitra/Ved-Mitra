@@ -35,7 +35,7 @@ I like solving problems that require understanding both the high-level architect
 
 ---
 
-## On Hold (Version 1 Completed)
+## Version 1 Completed
 *Projects with a finished first version, planned for future scaling and feature updates.*
 <div align = "left">
   <a href="https://github.com/Ved-Mitra/CNN-Scratch">
@@ -47,6 +47,7 @@ I like solving problems that require understanding both the high-level architect
   </a>
   &nbsp;&nbsp;&nbsp;
 </div>
+
 ---
 
 ## Completed Projects
